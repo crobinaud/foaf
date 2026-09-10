@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <foaf:Person rdf:about="#crobinaud">
+    <foaf:name>Cyprien ROBINAUD</foaf:name>
+    <foaf:homepage rdf:resource="https://crobinaud.github.io/foaf" />
+    <foaf:img rdf:resource="https://0.gravatar.com/avatar/f675b67bcdb8f19096f687531f3cc3890612bcf8a6e8dcd46be05896b48837bd?size=512&d=initials" />
+  </foaf:Person>
+</rdf:RDF>
