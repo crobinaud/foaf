@@ -3,7 +3,7 @@
     <foaf:name>Cyprien ROBINAUD</foaf:name>
     <foaf:age>22</foaf:age>
     <foaf:homepage rdf:resource="https://crobinaud.github.io/foaf" />
-    <foaf:img rdf:resource="https://0.gravatar.com/avatar/f675b67bcdb8f19096f687531f3cc3890612bcf8a6e8dcd46be05896b48837bd?size=512&d=initials" />
+    <foaf:img rdf:resource="https://0.gravatar.com/avatar/f675b67bcdb8f19096f687531f3cc3890612bcf8a6e8dcd46be05896b48837bd?size=512&amp;d=initials" />
     <foaf:schoolHomepage rdf:resource="https://www.univ-larochelle.fr/" />
     <foaf:account>
       <foaf:OnlineAccount>
